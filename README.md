@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and C# language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- IG: @hemasja
+      - Instagram: @hemasja
 
 <!---
 hemasja/hemasja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
