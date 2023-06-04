@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemasja
 - 👀 I’m interested in Game Development and Web Development
-- 🌱 I’m currently learning Java, html, CSS, and C# language
+- 🌱 I’m currently learning html, CSS, and C# language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
       - Instagram: @hemasja
